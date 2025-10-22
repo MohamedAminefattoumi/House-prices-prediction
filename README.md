@@ -235,11 +235,6 @@ batch_prediction('houses_to_predict.csv')
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👨‍💻 Author
-
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
 
 ## 🙏 Acknowledgments
 
@@ -247,12 +242,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Scikit-learn documentation
 - Python data science community
 
-## 📞 Contact
 
-For questions or suggestions, please open an issue or contact:
-- Email: your.email@example.com
-- GitHub Issues: [Create an issue](https://github.com/yourusername/house-price-prediction/issues)
-
----
 
 ⭐ **Star this repository if you found it helpful!**
